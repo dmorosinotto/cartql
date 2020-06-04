@@ -1,0 +1,7 @@
+{
+  "name": "cartql",
+  "description": "CartQL API",
+  "image": "heroku/nodejs",
+  "repo": "https://github.com/cartql/cartql",
+  "addons": ["mongolab"]
+}
