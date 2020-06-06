@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "apollo-datasource": "^0.7.0",
-    "apollo-server": "2.10.1",
+    "apollo-server": "2.14.2",
     "cuid": "2.1.8",
     "currency-formatter": "1.5.5",
     "date-fns": "^2.3.0",
